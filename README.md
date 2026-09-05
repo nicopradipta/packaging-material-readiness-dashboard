@@ -4,6 +4,7 @@ A Power BI project analyzing packaging material delivery delays and their impact
 
 ![Executive Overview](./screenshots/executive_overview.png)
 ![Delay Pattern by Category and Quarter](./screenshots/delay_pattern_analysis.png)
+![SKU Operational Detail](./screenshots/sku_operational_detail.png)
 
 ---
 
